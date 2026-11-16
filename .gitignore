@@ -1,0 +1,30 @@
+# Eclipse / STS Workspace
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+Servers/
+
+# Eclipse settings
+.classpath
+.project
+.settings/
+
+# Java
+*.class
+target/
+build/
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
